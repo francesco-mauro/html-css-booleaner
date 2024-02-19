@@ -13,3 +13,20 @@ header {
     height: 140px;
     width: 200px;
 }
+
+.grey{
+    color: rgb(133, 126, 126)
+}
+
+#autor-color{
+    color: rgba(55, 179, 221,0.836);
+    font-weight: 570;
+}
+
+.small{
+    font-size: 11px ;
+}
+
+.highlighted{
+    background-color: yellow;
+}
