@@ -18,7 +18,7 @@ header {
     color: rgb(133, 126, 126)
 }
 
-#autor-color{
+.custom-lightblue{
     color: rgba(55, 179, 221,0.836);
     font-weight: 570;
 }
@@ -29,4 +29,26 @@ header {
 
 .highlighted{
     background-color: yellow;
+}
+
+.first-two-column {
+    width: 25%; 
+}
+
+.last-column {
+    width: 50%; 
+}
+
+#table-head{
+   background-color: rgba(55, 179, 221,0.836);
+   color: white;
+   font-weight: 600;
+}
+
+.background-lighterblue{
+    background-color: rgba(149, 216, 238, 0.836);    
+}
+
+table{
+    border-collapse: collapse;
 }
